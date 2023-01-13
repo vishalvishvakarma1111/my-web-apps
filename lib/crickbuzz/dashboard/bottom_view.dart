@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import '../util/const.dart';
+import '../../util/const.dart';
 
 class BottomView extends StatelessWidget {
   const BottomView({Key? key}) : super(key: key);

@@ -1,7 +1,7 @@
 import 'package:get/get_rx/src/rx_types/rx_types.dart';
 
-import '../model/common_model.dart';
-import '../util/mybasecontroller.dart';
+import '../../model/common_model.dart';
+import '../../util/mybasecontroller.dart';
 
 class DashboardController extends MyBaseController {
   RxBool showAllSchedule = false.obs;
@@ -11,8 +11,10 @@ class DashboardController extends MyBaseController {
       title: "The good Samaritans who came to Rishabh Pant's rescue",
       title2:
           "Bus driver Sushil and conductor Paramjeet, who rushed to help Rishabh Pant, recalled the turn of events in the wee hours of Friday morningr",
-      img: "https://images.pexels.com/photos/2096543/pexels-photo-2096543.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-    ),  CommonModel(
+      img:
+          "https://images.pexels.com/photos/2096543/pexels-photo-2096543.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    ),
+    CommonModel(
       title: "The good Samaritans who came to Rishabh Pant's rescue",
       title2:
           "Bus driver Sushil and conductor Paramjeet, who rushed to help Rishabh Pant, recalled the turn of events in the wee hours of Friday morningr",
@@ -23,12 +25,15 @@ class DashboardController extends MyBaseController {
       title2:
           "Bus driver Sushil and conductor Paramjeet, who rushed to help Rishabh Pant, recalled the turn of events in the wee hours of Friday morningr",
       img: "https://images.pexels.com/photos/7232670/pexels-photo-7232670.jpeg?auto=compress&cs=tinysrgb&w=1600",
-    ),   CommonModel(
+    ),
+    CommonModel(
       title: "The good Samaritans who came to Rishabh Pant's rescue",
       title2:
           "Bus driver Sushil and conductor Paramjeet, who rushed to help Rishabh Pant, recalled the turn of events in the wee hours of Friday morningr",
-      img: "https://images.pexels.com/photos/2096543/pexels-photo-2096543.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-    ),  CommonModel(
+      img:
+          "https://images.pexels.com/photos/2096543/pexels-photo-2096543.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    ),
+    CommonModel(
       title: "The good Samaritans who came to Rishabh Pant's rescue",
       title2:
           "Bus driver Sushil and conductor Paramjeet, who rushed to help Rishabh Pant, recalled the turn of events in the wee hours of Friday morningr",

@@ -1,14 +1,14 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:native_app/dashboard/dashboard_controller.dart';
-import 'package:native_app/dashboard/schedule_view.dart';
+import 'package:native_app/crickbuzz/dashboard/dashboard_controller.dart';
+import 'package:native_app/crickbuzz/dashboard/schedule_view.dart';
 
-import '../util/const.dart';
-import 'bottom_view.dart';
+import '../../util/const.dart';
+ import 'bottom_view.dart';
 import 'header_view.dart';
 
-class DashboardView extends StatelessWidget {
-  const DashboardView({Key? key}) : super(key: key);
+class CrickBuzzDashBoardView extends StatelessWidget {
+  const CrickBuzzDashBoardView({Key? key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
